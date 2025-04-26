@@ -1,4 +1,11 @@
-- BEM VINDO AO MEU PERFIL
-- ENSINO MÉDIO COMPLETO, CURSANDO (TDS) Técnico em Desenvolvimento de Sistemas no SENAI
-- CONTATO PROFISSIONAL: daveiga.office@gmail.com
+# 👋 BEM-VINDO AO MEU PERFIL | WELCOME TO MY PROFILE
 
+---
+
+## 🎓 Formação Acadêmica | Academic Background
+- ✅ ENSINO MÉDIO COMPLETO | HIGH SCHOOL GRADUATE
+- 🖥️ Cursando (TDS) Técnico em Desenvolvimento de Sistemas no SENAI  
+  _Currently studying (TDS) Technical Course in Systems Development at SENAI_
+
+## 📫 Contato Profissional | Professional Contact
+- ✉️ daveiga.office@gmail.com
