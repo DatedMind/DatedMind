@@ -5,7 +5,7 @@
 ## 🎓 Formação Acadêmica | Academic Background
 - ✅ ENSINO MÉDIO COMPLETO | HIGH SCHOOL GRADUATE
 - 🖥️ Cursando (TDS) Técnico em Desenvolvimento de Sistemas no SENAI 2/3
-  _Currently studying (TDS) Technical Course in Systems Development at SENAI_
+  _Currently studying (TDS) Technical Course in Systems Development at SENAI 2/3_
 
 ## 📫 Contato Profissional | Professional Contact
 - ✉️ Gmail:     daveiga.office@gmail.com
