@@ -8,10 +8,10 @@
   _Currently studying (TDS) Technical Course in Systems Development at SENAI 2/3_
 
 ## 📫 Contato Profissional | Professional Contact
-- ✉️ Gmail:     daveiga.office@gmail.com
-- 📸 Instagram: [@daniel.vejga](https://www.instagram.com/daniel.vejga/)
-- 📘 Facebook:  [Daniel Veiga](https://www.facebook.com/profile.php?id=100042190807340)
-- 💼 LinkedIn:  [Daniel Veiga](https://www.linkedin.com/in/daniel-veiga-774501358/)
+- ✉️ [Gmail](daveiga.office@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/daniel.vejga/)
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=100042190807340)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-veiga-774501358/)
 
  ## 🌟 Sobre Mim | About Me
 
