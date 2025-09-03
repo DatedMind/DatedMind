@@ -1,5 +1,5 @@
 # 👋 BEM-VINDO AO MEU PERFIL | WELCOME TO MY PROFILE
-- ✉️ Gmail daveiga.office@gmail.com
+
 ---
 
 ## 🎓 Formação Acadêmica | Academic Background
