@@ -7,7 +7,8 @@
 - 🖥️ Cursando (TDS) Técnico em Desenvolvimento de Sistemas no SENAI 2/3
   _Currently studying (TDS) Technical Course in Systems Development at SENAI 2/3_
 
-## 📫 Outro Contato Profissional | Other Professional Contact
+## 📫 Contato Profissional | Professional Contact
+### ✉️ Gmail daveiga.office@gmail.com
 - 📸 [Instagram](https://www.instagram.com/daniel.vejga/)
 - 📘 [Facebook](https://www.facebook.com/profile.php?id=100042190807340)
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-veiga-774501358/)
