@@ -1,5 +1,5 @@
 # 👋 BEM-VINDO AO MEU PERFIL | WELCOME TO MY PROFILE
-
+### 🌳 [Linktree](https://linktr.ee/DanielVeiga_Dev)
 ---
 
 ## 🎓 Formação Acadêmica | Academic Background
@@ -9,10 +9,11 @@
 
 ## 📫 Contato Profissional | Professional Contact
 ### ✉️ Gmail daveiga.office@gmail.com
+
 - 📸 [Instagram](https://www.instagram.com/daniel.vejga/)
 - 📘 [Facebook](https://www.facebook.com/profile.php?id=100042190807340)
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-veiga-774501358/)
-- 🌳 [Linktree](https://linktr.ee/DanielVeiga_Dev)
+
 
  ## 🌟 Sobre Mim | About Me
 
