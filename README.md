@@ -10,9 +10,9 @@
 ## 📫 Contato Profissional | Professional Contact
 ### ✉️ Gmail daveiga.office@gmail.com
 
-- 📸 [Instagram](https://www.instagram.com/daniel.vejga/)
-- 📘 [Facebook](https://www.facebook.com/profile.php?id=100042190807340)
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-veiga-774501358/)
+- #### 📸 [Instagram](https://www.instagram.com/daniel.vejga/)
+- #### 📘 [Facebook](https://www.facebook.com/profile.php?id=100042190807340)
+- #### 💼 [LinkedIn](https://www.linkedin.com/in/daniel-veiga-774501358/)
 
 
  ## 🌟 Sobre Mim | About Me
