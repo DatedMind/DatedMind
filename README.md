@@ -20,7 +20,3 @@
 - 💡 Apaixonado por transformar ideias em código | Passionate about turning ideas into code
 - 🎮 Gosto de jogos, tecnologia e de aprender coisas novas | Love gaming, tech, and learning new things
 - 🌍 Sonho em contribuir para projetos que impactem o mundo | Dream of contributing to projects that impact the world
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatedMind&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
